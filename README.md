@@ -1,5 +1,8 @@
 # NetlifyCMS GitHub OAuth Provider Server Example
 
+**Blog post:**
+[tylergaw.com/articles/netlify-cms-custom-oath-provider](https://tylergaw.com/articles/netlify-cms-custom-oath-provider)
+
 [https://glitch.com/edit/#!/netlify-cms-github-oauth-provider-example](https://glitch.com/edit/#!/netlify-cms-github-oauth-provider-example)
 
 A working example of a custom GitHub OAuth Provider for NetlifyCMS.
