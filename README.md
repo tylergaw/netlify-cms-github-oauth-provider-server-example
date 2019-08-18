@@ -40,3 +40,9 @@ In this Glitch, you'll find a `.env` file. In it you'll see `OAUTH_CLIENT_ID` an
 In GitHub, go to the GitHub OAuth App you created in step 2. Locate the Client ID and Client Secret. Set those to the `OAUTH_CLIENT_ID` and `OAUTH_CLIENT_SECRET` in `.evn`
 
 ![A screenshot of a GitHub OAuth Provider App client id and secret section with redacted values](https://cdn.glitch.com/31f07835-3db8-41b9-aa39-d4ef6b7dd9d0%2Fgithub-oauth-client-and-secret.png?v=1565457996910)
+
+### 4. Configure Your NetlifyCMS client
+
+Use your own or [the example](https://github.com/tylergaw/netlify-cms-github-oauth-provider-client-example) client to complete the loop.
+
+The key item in the client example code and readme is the `base_url` setting in `config.yml`. That's the hook between the client and this server.
