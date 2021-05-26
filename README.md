@@ -37,7 +37,7 @@ Complete the form using the following values.
 
 In this Glitch, you'll find a `.env` file. In it you'll see `OAUTH_CLIENT_ID` and `OAUTH_CLIENT_SECRET` both without values.
 
-In GitHub, go to the GitHub OAuth App you created in step 2. Locate the Client ID and Client Secret. Set those to the `OAUTH_CLIENT_ID` and `OAUTH_CLIENT_SECRET` in `.evn`
+In GitHub, go to the GitHub OAuth App you created in step 2. Locate the Client ID and Client Secret. Set those to the `OAUTH_CLIENT_ID` and `OAUTH_CLIENT_SECRET` in `.env`
 
 ![A screenshot of a GitHub OAuth Provider App client id and secret section with redacted values](https://cdn.glitch.com/31f07835-3db8-41b9-aa39-d4ef6b7dd9d0%2Fgithub-oauth-client-and-secret.png?v=1565457996910)
 
